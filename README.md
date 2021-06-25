@@ -6,4 +6,6 @@ Originality of this repos: A Google Colab implementation of the useful deepface 
 $pip install deepface
 ```
 
+<img width="757" alt="deepface" src="https://user-images.githubusercontent.com/18000553/123458004-268d3880-d602-11eb-891b-956bc8c79971.png">
+
 # DeepFace Tutorial
